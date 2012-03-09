@@ -1,0 +1,3 @@
+This is the source code fro debcite, a citation retrieval engine to make retrieving evidence from the public wiki for intercollegiate policy debates easier and more efficient. It parses shorthand citations and uses a variety of techniques, including the Google and Yahoo search APIs, to try to retrieve the full text of the evidence being cited.
+
+It's written in PHP and JavaScript with MySQL, and the primary implementation is at http://www.jpwright.net/debcite
