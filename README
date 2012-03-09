@@ -4,12 +4,20 @@ README
 1. About
 --------
 
-This is the source code for debcite, a citation retrieval engine to make retrieving evidence from the public wiki for intercollegiate policy debates easier and more efficient. It parses shorthand citations and uses a variety of techniques, including the Google and Yahoo search APIs, to try to retrieve the full text of the evidence being cited.
+This is the source code for debcite, a citation retrieval engine to make retrieving evidence 
+from the public wiki for intercollegiate policy debates easier and more efficient. It parses 
+shorthand citations and uses a variety of techniques, including the Google and Yahoo search 
+APIs, to try to retrieve the full text of the evidence being cited.
 
-It's written in PHP and JavaScript with MySQL, and the primary implementation is at http://www.jpwright.net/debcite
+It's written in PHP and JavaScript with MySQL, and the primary implementation is at 
+http://www.jpwright.net/debcite
 
 Copyright (C) 2012  Jason Wright
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+This program is free software: you can redistribute it and/or modify it under the terms of 
+the GNU General Public License as published by the Free Software Foundation, either version 
+3 of the License, or any later version.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+See the GNU General Public License for more details.
