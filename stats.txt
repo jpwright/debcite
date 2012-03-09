@@ -1,0 +1,1 @@
+501 cards found & 404 cards missed = 55.359116022099%

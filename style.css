@@ -1,0 +1,73 @@
+/* dre stylesheet */
+
+body
+{
+font-family: Arial;
+}
+
+img
+{
+border: none;
+}
+
+table,th,td 
+{
+border-width: 1px;
+border-color: black;
+border-style: solid;
+border-collapse: collapse;
+padding: 5px;
+}
+
+div#main 
+{
+width: 80%;
+margin: auto;
+}
+
+div#searchbox
+{
+text-align: center;
+}
+
+.button
+{
+    border: 1px solid black;
+    background: #D3D4DE;
+	font-size: x-large;
+}
+
+DIV.status
+{
+border-width: 1px;
+border-color: black;
+border-style: solid;
+border-collapse: collapse;
+padding: 5px;
+margin: 5px;
+font-size: medium;
+}
+
+DIV.result
+{
+border-width: 1px;
+border-color: black;
+border-style: solid;
+border-collapse: collapse;
+padding: 5px;
+margin: 5px;
+font-size: small;
+}
+
+DIV.error
+{
+border-width: 1px;
+border-color: black;
+border-style: solid;
+border-collapse: collapse;
+padding: 5px;
+margin: 5px;
+font-size: medium;
+font-weight: bold;
+color: red;
+}
